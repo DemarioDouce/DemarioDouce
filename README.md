@@ -1,6 +1,6 @@
 # Demario Douce
 
-Email: demario.douce567@gmail.com
+- Email: demario.douce567@gmail.com
 
 ---
 
