@@ -31,14 +31,18 @@ Website Developer
 
 #### Centennial College
 
-September 2018 – April 2021
-Ontario College Advanced Diploma
+###### September 2018 – April 2021
+
+###### Ontario College Advanced Diploma
+
 Pursuing Ontario college advanced diploma in software engineering technology.
 
 #### Moneague College
 
-September 2016 – May 2018
-Associate Degree
+###### September 2016 – May 2018
+
+###### Associate Degree
+
 Acquired associate degree in management information systems.
 
 ---
