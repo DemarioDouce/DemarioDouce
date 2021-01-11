@@ -14,7 +14,9 @@
 
 ## EXPERIENCE
 
-Out of The Blue Marketing January 2018 – September 2019
+#### Out of The Blue Marketing
+
+January 2018 – September 2019
 Website Developer
 
 - Design and develop websites.
@@ -27,11 +29,15 @@ Website Developer
 
 ## EDUCATION
 
-Centennial College September 2018 – April 2021
+#### Centennial College
+
+September 2018 – April 2021
 Ontario College Advanced Diploma
 Pursuing Ontario college advanced diploma in software engineering technology.
 
-Moneague College September 2016 – May 2018
+#### Moneague College
+
+September 2016 – May 2018
 Associate Degree
 Acquired associate degree in management information systems.
 
