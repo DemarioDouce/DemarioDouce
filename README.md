@@ -16,8 +16,9 @@
 
 #### Out of The Blue Marketing
 
-January 2018 – September 2019
-Website Developer
+##### January 2018 – September 2019
+
+###### Website Developer
 
 - Design and develop websites.
 - Determine technical and graphical requirements.
@@ -31,7 +32,7 @@ Website Developer
 
 #### Centennial College
 
-###### September 2018 – April 2021
+##### September 2018 – April 2021
 
 ###### Ontario College Advanced Diploma
 
@@ -39,7 +40,7 @@ Pursuing Ontario college advanced diploma in software engineering technology.
 
 #### Moneague College
 
-###### September 2016 – May 2018
+##### September 2016 – May 2018
 
 ###### Associate Degree
 
