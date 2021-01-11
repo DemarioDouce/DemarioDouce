@@ -1,6 +1,7 @@
 # Demario Douce
 
 - Email: demario.douce567@gmail.com
+- Address: Toronto, ON, Canada
 
 ---
 
