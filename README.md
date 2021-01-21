@@ -51,4 +51,4 @@ Acquired associate degree in management information systems.
 
 ## TECHNOLOGY
 
-ASP.NET, Bootstrap, C#, JavaScript, Bash, PHP, Java, Swift, Python, Visual Studio, Eclipse, XCode, HTML, CSS, XML, SQL, MySQL, JSON, Git, GitHub, Android Studio, RESTful APIs, AWS, Oracle SQL, Spring, Nodejs, Firebase, MongoDB, NoSQL, React, React Native, WordPress
+ASP.NET, Bootstrap, C#, JavaScript, Bash, PHP, Java, Swift, Python, Visual Studio, Eclipse, XCode, HTML, CSS, XML, SQL, MySQL, JSON, Git, GitHub, Android Studio, RESTful APIs, AWS, Oracle SQL, Spring, Nodejs, Firebase, MongoDB, NoSQL, React, React Native, WordPress, Unity, Blender
