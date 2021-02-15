@@ -7,7 +7,7 @@
 
 ## SUMMARY
 
-<center>THINK. DESIGN. CODE.</center>
+<h1 align="center">THINK. DESIGN. CODE.</h1>
 
 ---
 
