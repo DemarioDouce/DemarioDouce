@@ -26,6 +26,7 @@
 - Was responsible for maintaining, expanding, and scaling various websites.
 - Stayed plugged into emerging technologies/industry trends and apply them into operations and activities.
 - Cooperated with customer service to meet customer's expectations.
+
 ---
 
 ## EDUCATION
