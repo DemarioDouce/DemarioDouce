@@ -7,9 +7,7 @@
 
 ## SUMMARY
 
-- Offering a strong foundation in software engineering and programming principles across multiple platforms.
-- Experienced in object-oriented programming; developing, testing, and debugging code; designing interfaces; and administering systems and networks.
-- Quickly learn and master new technologies, successful working in both teams, and self-directed settings.
+<h1 align="center">THINK. DESIGN. CODE.</h1>
 
 ---
 
