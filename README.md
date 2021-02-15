@@ -19,12 +19,13 @@
 
 ###### Website Developer
 
-- Design and develop websites.
-- Determine technical and graphical requirements.
-- Use photoshop to do basic graphical designs and changes.
-- Update and maintain websites.
-- Solve code problems.
-
+- Wrote well designed, testable, efficient code by using best software development practices.
+- Created website layout/user interface by using standard HTML/CSS/JavaScript practices.
+- Integrated data from various back-end services and databases.
+- Gathered and refined specifications and requirements based on technical needs.
+- Was responsible for maintaining, expanding, and scaling various websites.
+- Stayed plugged into emerging technologies/industry trends and apply them into operations and activities.
+- Cooperated with customer service to meet customer's expectations.
 ---
 
 ## EDUCATION
