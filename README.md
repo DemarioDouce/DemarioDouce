@@ -7,7 +7,7 @@
 
 ## SUMMARY
 
-A Software Engineer that commends the past, accepts the present, and is powered by the future. Strong foundation in software engineering and programming principles across multiple platforms. Adhering to the systems development life cycle and agile software development. Constantly learning and mastering new technologies.
+A Software Engineer that commends the past, accepts the present, and is powered by the future. Strong foundation in software engineering and programming principles across multiple platforms. Adhering to the systems development life cycle and agile software development methodologies. Constantly learning and mastering new technologies.
 
 ---
 
