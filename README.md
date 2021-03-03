@@ -8,7 +8,7 @@
 
 ## SUMMARY
 
-A Software Engineer that commends the past, accepts the present, and is powered by the future. Strong foundation in software engineering and programming principles across multiple platforms. Adhering to the systems development life cycle. Constantly learning and mastering new technologies.
+A Software Engineer that commends the past, accepts the present and is powered by the future. Strong foundation in software engineering and programming principles across multiple platforms. My mission is to enhance the human race with creative design, development and to deliver high-quality solutions that create value and reliable competitive advantages.
 
 ---
 
