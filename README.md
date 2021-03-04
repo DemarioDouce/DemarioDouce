@@ -8,7 +8,7 @@
 
 ## SUMMARY
 
-As a software engineer that is driven by the future, my mission is to enhance the human race with creative design and development. This will lead to high-quality solutions which will create value and reliable competitive advantages.
+As a software engineer that is driven by the future, my mission is to enhance the human race by creating and implementing software applications. This will lead to high-quality solutions which will create value and reliable competitive advantages.
 
 ---
 
