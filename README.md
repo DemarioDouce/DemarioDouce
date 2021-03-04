@@ -8,7 +8,7 @@
 
 ## SUMMARY
 
-As a software engineer that commends the past accepts the present and is powered by the future with a strong foundation in software engineering and programming principles across multiple platforms my mission is to enhance the human race with creative design, development and to deliver high-quality solutions that create value and reliable competitive advantages.
+As a software engineer that is driven by the future, my mission is to enhance the human race with creative design and development. This will lead to high-quality solutions which will create value and reliable competitive advantages.
 
 ---
 
